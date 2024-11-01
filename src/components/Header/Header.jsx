@@ -7,7 +7,11 @@ const Header = () => {
                 <span>My Website</span>
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
-                <Link to="/contact">Contact US</Link>
+                <Link to="/post">Post</Link>
+                <Link to="/Users">Our Users</Link>
+             <Link to="/contact">Contact US</Link>
+             <button>click me </button>
+
             </nav>
         </div>
     );
